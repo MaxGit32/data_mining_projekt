@@ -1,4 +1,4 @@
-# Replikationsarbeit zur Arbeit Artificial Hiveminds Jiang et al. 2025: The Open-Ended Homogeneity of Language Models (and Beyond)
+# Replikationsarbeit zur Arbeit Artificial Hiveminds: The Open-Ended Homogeneity of Language Models (and Beyond) von Jiang et al. 2025
 
 Dieses Verzeichnis beinhaltet den Quellcode für die Replikation der Intra- und Intermodellhomogenitäten nach Jiang et al. 2025.
 
